@@ -1,6 +1,6 @@
 ---
 name: lihfolk
-description: 'LihFolk Roblox knowledge router (1,300+ notes; "check the vault"). Use before non-trivial Roblox work: Luau, Studio, remotes, data, UI, building, VFX, animation, design, money, performance, security, publishing.'
+description: 'LihFolk Roblox knowledge router (1,300+ notes; "check the vault"). Use before Roblox work: Luau, Studio, remotes, data, UI, building, VFX, animation, design, money, performance, security, publishing.'
 ---
 
 # LihFolk Roblox Knowledge Router
